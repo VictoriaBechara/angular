@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Caneta BIC Preta",
+            "price": 1.99
+        },
+        {
+            "id": 2,
+            "name": "Fusca Azul",
+            "price": 19.999
+        },
+        {
+            "id": 3,
+            "name": "Copo de Papel",
+            "price": 0.49
+        }
+    ]
+}
